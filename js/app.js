@@ -1,4 +1,16 @@
-let apellido = prompt('Bievenidoo!! ¿Cual es tu apellido?' )
+function Generar() {
+    var aa = ""
+    var tabla = document.getElementById('numero').value;
+    for (var i = 1; i < 10; i++) {
+        aa += tabla+" X "+i+" = "+(i*tabla)+"<br>";
+    }
+    document.getElementById("respuesta").innerHTML = aa;
+}
+
+
+
+
+/*let apellido = prompt('Bievenidoo!! ¿Cual es tu apellido?' )
 
 let verificarApellido = apellido.toLowerCase()
 
@@ -28,7 +40,7 @@ while(confirmar == false || confirmar == true){
 
         confirmar = confirm('Tu apellido es ' + verificarApellido)
     }
-}
+}*/
 
 
 
