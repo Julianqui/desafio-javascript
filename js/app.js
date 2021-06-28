@@ -5,13 +5,30 @@ function cuotas(numero){
 
     alert(`Cada cuota es de ${cadaCuota} sin interes`)
 
-    let interes = cadaCuota * 1.21
+    return cadaCuota
+}
 
-    alert(`Cada cuota es de ${interes} con interes`)
+let cuota = cuotas(numero)
+
+function interes(cuota){
+    let masInteres = cuota * 1.21
+
+    alert(`Cada cuota es de ${masInteres} con interes agregado`)
+
+    return masInteres;
 
 }
 
-cuotas(numero)
+let demora = interes(cuota)
+
+function mensual(demora){
+    let extra = demora * 2
+    alert(`Por cada mes de demora se agregara ${extra} al valor de la cuota`)
+
+}
+
+mensual(demora)
+
 
 
 
