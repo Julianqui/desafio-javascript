@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: aliceblue;
+}
+
+.header{
+    background: #1e0369;
+    height: 60px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-bottom: burlywood 5px solid;
+}
+
+.tittle{
+    color: #fff;
+}

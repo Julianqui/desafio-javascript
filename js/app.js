@@ -1,3 +1,21 @@
+let numero = prompt('Ingresa el total que deberas pagar y te dire las tres cuotas con interes agregado que debes pagar')
+
+function cuotas(numero){
+    let cadaCuota = numero / 3;
+
+    alert(`Cada cuota es de ${cadaCuota} sin interes`)
+
+    let interes = cadaCuota * 1.21
+
+    alert(`Cada cuota es de ${interes} con interes`)
+
+}
+
+cuotas(numero)
+
+
+
+/*
 function Generar() {
     var aa = ""
     var tabla = document.getElementById('numero').value;
@@ -6,6 +24,7 @@ function Generar() {
     }
     document.getElementById("respuesta").innerHTML = aa;
 }
+*/
 
 
 

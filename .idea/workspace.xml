@@ -5,11 +5,10 @@
       <change afterPath="$PROJECT_DIR$/../alunes/img/01.LogoMinisterio.svg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../alunes/img/servicios_digitales_2.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../coder/promise/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../trabajo/co_desarrollo/.idea/cssxfire.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../trabajo/co_desarrollo/.idea/php.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../trabajo/co_desarrollo/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../trabajo/co_desarrollo/app/Http/Controllers/PerfilController.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../trabajo/co_desarrollo/resources/views/perfil.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../sol" beforeDir="false" />
@@ -64,7 +63,8 @@
       <workItem from="1623329073839" duration="2181000" />
       <workItem from="1623716307052" duration="4637000" />
       <workItem from="1624296629055" duration="916000" />
-      <workItem from="1624466697366" duration="3233000" />
+      <workItem from="1624466697366" duration="3724000" />
+      <workItem from="1624911686699" duration="2223000" />
     </task>
     <servers />
   </component>
